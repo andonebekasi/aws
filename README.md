@@ -1,2 +1,8 @@
 # aws
 template terraform
+
+
+Note:
+
+- export AWS_ACCESS_KEY_ID="NUHKOIJFOJF9GFJDO" 
+  export AWS_SECRET_ACCESS_KEY="LSDJKFODSJF9SDJF8UH3U3HFKW"
