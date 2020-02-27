@@ -16,3 +16,6 @@ Note:
 - https://aws.amazon.com/blogs/compute/query-for-the-latest-amazon-linux-ami-ids-using-aws-systems-manager-parameter-store/
 - http://2ninjas1blog.com/terraform-assigning-an-aws-key-pair-to-your-ec2-instance-resource/
 - https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instances.html
+
+- aws configure
+  https://tunnelix.com/deploy-aws-ec2-instances-using-ansible/
