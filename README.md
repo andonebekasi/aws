@@ -4,7 +4,10 @@ template terraform
 
 Note:
 
+- aws ec2 create-default-vpc
+ ( https://docs.aws.amazon.com/vpc/latest/userguide/default-vpc.html )
 - export AWS_ACCESS_KEY_ID="NUHKOIJFOJF9GFJDO" 
+  
   export AWS_SECRET_ACCESS_KEY="LSDJKFODSJF9SDJF8UH3U3HFKW"
   ( https://www.agix.com.au/build-an-ec2-using-ansible-step-by-step/ )
 
