@@ -4,6 +4,10 @@ template terraform
 
 Note:
 
+jalanin script
+ source jalan.sh
+ source jalan-default-vpc.sh
+
 - aws ec2 create-default-vpc
  ( https://docs.aws.amazon.com/vpc/latest/userguide/default-vpc.html )
 - export AWS_ACCESS_KEY_ID="NUHKOIJFOJF9GFJDO" 
