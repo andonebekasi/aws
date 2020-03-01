@@ -22,3 +22,4 @@ Note:
 
 - aws configure
   https://tunnelix.com/deploy-aws-ec2-instances-using-ansible/
+- https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/2.7.0/examples/manage-default-vpc
