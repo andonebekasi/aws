@@ -28,3 +28,4 @@ Note:
 - https://www.bogotobogo.com/DevOps/Terraform/Terraform-VPCSubnet-ELB-RouteTable-SecurityGroup-Apache-Server-1.php
 - https://medium.com/@aliatakan/terraform-create-a-vpc-subnets-and-more-6ef43f0bf4c1
 
+- https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
