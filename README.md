@@ -31,3 +31,28 @@ Note:
 - https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
 - https://linoxide.com/devops/install-terraform-provision-aws-ec2-instance/
 
+
+====
+
+Examples
+Allowing everyone to execute the script, enter:
+
+chmod +x script.sh
+OR
+
+chmod 0755 script.sh
+Only allow owner to execute the script, enter:
+
+chmod 0700 script.sh
+OR
+
+chmod u=rwx,go= script.sh
+OR
+
+chmod u+x script.sh
+To view the permissions, use:
+
+ls -l script.sh
+
+https://bash.cyberciti.biz/guide/Setting_up_permissions_on_a_script
+
