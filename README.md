@@ -23,3 +23,8 @@ Note:
 - aws configure
   https://tunnelix.com/deploy-aws-ec2-instances-using-ansible/
 - https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/2.7.0/examples/manage-default-vpc
+- https://ifritltd.com/2017/12/06/provisioning-ec2-key-pairs-with-terraform/
+- https://www.bogotobogo.com/DevOps/Terraform/Terraform-terraform-userdata.php
+- https://www.bogotobogo.com/DevOps/Terraform/Terraform-VPCSubnet-ELB-RouteTable-SecurityGroup-Apache-Server-1.php
+- https://medium.com/@aliatakan/terraform-create-a-vpc-subnets-and-more-6ef43f0bf4c1
+
