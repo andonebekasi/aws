@@ -7,8 +7,9 @@ Note:
 jalanin script
 
 
-source jalan.sh
-source jalan-default-vpc.sh
+source jalan.sh | 
+source jalan-default-vpc.sh |
+
 
 - aws ec2 create-default-vpc
  ( https://docs.aws.amazon.com/vpc/latest/userguide/default-vpc.html )
