@@ -63,3 +63,11 @@ ls -l script.sh
 
 https://bash.cyberciti.biz/guide/Setting_up_permissions_on_a_script
 
+=============================================================================
+
+
+images id aws centos
+https://wiki.centos.org/Cloud/AWS
+aws --region us-east-1 ec2 describe-images --owners aws-marketplace --filters Name=product-code,Values=aw0evgkw8e5c1q413zgy5pjce
+
+
